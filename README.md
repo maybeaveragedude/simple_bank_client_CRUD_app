@@ -3,6 +3,7 @@ A Java application that allows bank staff to carry out CRUD (create, read, updat
 
 #### *Disclaimers*
 The functions in this app is client-focused, user will always be the __bank staff__.
+
 Developed using Eclipse IDE.
 
 * #### Client Accounts
