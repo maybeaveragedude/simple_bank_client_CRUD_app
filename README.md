@@ -8,7 +8,7 @@ The functions in this app is client-focused, user will always be the __bank staf
   * There are 2 account types for the clients: Savings and Current.
   * The table for [client's details](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/db/clientdetails.txt) has a flaw where you'll see 2 entries of the same individual, BUT with different account types. Account No. are auto-incremental.
   * Client's password are tied to their account type, example: 
-    * account no | account type | name | password |
+     account no | account type | name | password |
       ------------ | ------------- | ------------ | -------------
       1 | current | John Dough | 123
       6 | savings | John Dough | 420
@@ -22,14 +22,17 @@ The functions in this app is client-focused, user will always be the __bank staf
   * QR code images are generated in [QRUtils.java](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/src/jpbankpjct/QRUtils.java). [[Reference Link](https://www.callicoder.com/qr-code-reader-scanner-in-java-using-zxing/)]
   * Reading QR code done through using webcam in [QRWebcamReader.java](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/src/jpbankpjct/QRWebcamReader.java). [[Reference Link](https://github.com/vivekkairi/webcam-qr-barcode-scanner)]
 
-## How does it function? [Very Detailed Walkthrough](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/Java%20Documentation.docx)
+## How does it function? 
+
 1. Bank staff will login by running [StaffLogin.java](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/src/jpbankpjct/StaffLogin.java)
-  * username | password
+  username | password
     ------------ | -------------
     admin | 123
 2. Client can be registered by staffs.
 3. Staffs can choose to login on behalf of the client through QR method or entering account no. and password.
-4. Clients can request to change password and staffs can change it from the menu bar (Client > Edit). *Changing password will take immediate effect*
+4. Clients can request to change password and staffs can change it from the menu bar (Client > Edit). *Changing password will take immediate effect.*
+
+__Very detailed walkthrough [here](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/Java%20Documentation.docx).__
 
 
 ### Folders
