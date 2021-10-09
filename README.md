@@ -3,6 +3,7 @@ A Java application that allows bank staff to carry out CRUD (create, read, updat
 
 #### *Disclaimers*
 The functions in this app is client-focused, user will always be the __bank staff__.
+Developed using Eclipse IDE.
 
 * #### Client Accounts
   * There are 2 account types for the clients: Savings and Current.
@@ -24,7 +25,8 @@ The functions in this app is client-focused, user will always be the __bank staf
 
 ## How does it function? 
 
-1. Bank staff will login by running [StaffLogin.java](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/src/jpbankpjct/StaffLogin.java)
+1. Clone this git repo to your IDE.
+2. Bank staff will login by running [StaffLogin.java](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/src/jpbankpjct/StaffLogin.java)
   username | password
     ------------ | -------------
     admin | 123
@@ -36,6 +38,7 @@ __Very detailed walkthrough [here](https://github.com/maybeaveragedude/simple_ba
 
 
 ### Folders
+*Most of the files are libraries files*
 * #### [src](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/tree/master/src)
   * contains all the Java classes
   * [log4j.properties](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/src/log4j.properties) was created to fix weird logging behaviours.
