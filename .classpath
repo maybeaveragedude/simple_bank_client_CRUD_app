@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.osgi_3.16.300.v20210525-1715.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.osgi_3.16.300.v20210525-1715.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.core.commands_3.10.0.v20210401-0744.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.core.commands_3.10.0.v20210401-0744.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.equinox.common_3.15.0.v20210518-0604.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.equinox.common_3.15.0.v20210518-0604.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.equinox.registry_3.10.200.v20210503-1606.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.equinox.registry_3.10.200.v20210503-1606.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.core.runtime_3.22.0.v20210506-1025.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.core.runtime_3.22.0.v20210506-1025.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.text_3.12.0.v20210512-1644.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.text_3.12.0.v20210512-1644.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.116.100.v20210602-2209.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.116.100.v20210602-2209.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.jface_3.22.200.v20210401-0958.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.jface_3.22.200.v20210401-0958.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.jface.text_3.18.0.v20210512-1640.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.jface.text_3.18.0.v20210512-1640.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.ui.workbench_3.122.200.v20210506-1640.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.ui.workbench_3.122.200.v20210506-1640.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.ui.forms_3.11.100.v20210108-1139.jar" sourcepath="C:/Users/AverageDude/.p2/pool/plugins/org.eclipse.ui.forms_3.11.100.v20210108-1139.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="commons-validator-1.7-bin/commons-validator-1.7/commons-validator-1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

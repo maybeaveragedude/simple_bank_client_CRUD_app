@@ -1,0 +1,15 @@
+accountbalance.txt
+=====================
+[Account No.], [Account Balance]
+
+clientdetails.txt
+=====================
+[Account No.], [Client Name], [IC No.], [Contact No.], [Email], [Password Salt], [Encrypted Password], [Account Type], [Date Created]
+
+staffdetails.txt
+=====================
+[Username], [Encrypted Password], [Password Salt]
+
+transactions.txt
+=====================
+[Transaction ID], [Account No.], [Withdraw Amount], [Deposit Amount], [Transaction Date]
