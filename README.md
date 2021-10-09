@@ -30,6 +30,7 @@ The functions in this app is client-focused, user will always be the __bank staf
 2. Client can be registered by staffs.
 3. Staffs can choose to login on behalf of the client through QR method or entering account no. and password.
 4. Clients can request to change password and staffs can change it from the menu bar (Client > Edit). *Changing password will take immediate effect*
+[Very Detailed Walkthrough](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/blob/master/Java%20Documentation.docx)
 
 ### Folders
 * #### [src](https://github.com/maybeaveragedude/simple_bank_client_CRUD_app/tree/master/src)
