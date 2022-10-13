@@ -1,6 +1,6 @@
 # simple_bank_client_CRUD_app
-- OODJ/JP assignment for university
-A Java application that allows bank staff to carry out CRUD (create, read, update and delete) operations on behalf of the clients.
+* OODJ/JP assignment for university
+* A Java application that allows bank staff to carry out CRUD (create, read, update and delete) operations on behalf of the clients.
 
 #### *Disclaimers*
 The functions in this app is client-focused, user will always be the __bank staff__.
